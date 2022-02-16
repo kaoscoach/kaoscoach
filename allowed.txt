@@ -1,2 +1,2 @@
-##### Allow SSH: No
+##### Allow SSH: Yes
 ##### Allow VPN: Yes
