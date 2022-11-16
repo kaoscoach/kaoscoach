@@ -1,3 +1,3 @@
 ##### Allow SSH: Yes
-##### Allow VPN: No
+##### Allow VPN: Yes
 ##### Allow Zscaler: No
